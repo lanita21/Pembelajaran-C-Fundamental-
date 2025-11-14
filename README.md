@@ -13,6 +13,35 @@ Repo ini berisi kumpulan materi, contoh program, dan latihan untuk membantu kamu
 - Mengasah logika melalui latihan dan mini project  
 - Mempersiapkan diri menuju pemrograman tingkat lanjut  
 
----
 
-## 📚 Struktur Materi
+## 📘 Materi Pembelajaran
+
+### 1. Hello World  
+Belajar membuat program pertama di C++.
+
+### 2. Variabel & Tipe Data  
+Mengenal `int`, `float`, `char`, `double`, `bool`, dan string.
+
+### 3. Input/Output  
+Menggunakan `cout` dan `cin`.
+
+### 4. Operator  
+Aritmatika, relasi, logika, assignment, dan lainnya.
+
+### 5. Control Flow  
+`if`, `else`, `switch`.
+
+### 6. Looping  
+`for`, `while`, `do-while`.
+
+### 7. Function  
+Deklarasi, parameter, nilai balik.
+
+### 8. Array & Vector  
+Penggunaan array statis dan `std::vector`.
+
+### 9. Pointer & Reference  
+Dasar memory address, dereference, reference binding.
+
+### 10. OOP  
+Class, objek, constructor, enkapsulasi.
